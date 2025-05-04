@@ -1,4 +1,4 @@
-# Sentiment Analysis with Naive Bayes
+# Sentiment Analysis
 
 This project implements a sentiment classification pipeline using a Naive Bayes model trained on labeled review datasets. The goal is to predict whether a given sentence has a **positive** or **negative** sentiment.
 
